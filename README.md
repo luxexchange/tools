@@ -12,4 +12,4 @@ standalone, Lux-original package (no third-party upstream).
 
 ## License
 
-MIT — see [LICENSE](./LICENSE).
+BSD-3-Clause — see [LICENSE](./LICENSE).
